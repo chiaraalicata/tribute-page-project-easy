@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: "Hubballi", cursive;
+  background-color: #e5e3c9;
+  color: #789395;
+  font-size: 1.6rem;
+}
+h1 {
+  color: #94b49f;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+h4 {
+  line-height: 0;
+}
+img {
+  margin: 10px;
+  border-radius: 10%;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+.description-img {
+  font-style: italic;
+}
+#img-box {
+  background-color: rgb(219, 240, 179);
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 100px;
+}
+#fake-quote {
+  font-style: italic;
+  margin: 0 auto 50px auto;
+  max-width: 545px;
+}
+#open-source {
+  text-decoration: none;
+  color: rgb(84, 112, 26);
+}
+#linkedin {
+  text-decoration: none;
+  color: rgb(84, 112, 26);
+}
